@@ -43,29 +43,30 @@ Never thought i would rage quite while i'm building something interesting, my po
 ### Schematics and PCB Design
 
 
-![[6213108242129732064.jpg]]
-![[6213108242129732510.jpg]]
+![Screenshot](Assests/6213108242129732064.jpg)
+
+![Screenshot](Assests/6213108242129732510.jpg)
 
 ---
 
-![[Pasted image 20250611093643.png]]
-![[Pasted image 20250611093734.png]]
+![Screenshot](Assests/20250611093643.png)
+![Screenshot](Assests/20250611093734.png)
 
 ---
 ### 3D Printed Case
 Plate:
-![[Pasted image 20250611094447.png]]
+![Screenshot](Assests/20250611094447.png)
 
 ---
 
 Body :
-![[Pasted image 20250611094849.png]]
+![Screenshot](Assests/20250611094849.png)
 
 ---
 
 Both :
-![[Pasted image 20250611094938.png]]
-![[Pasted image 20250611094954.png]]
+![Screenshot](Assests/20250611094938.png)
+![Screenshot](Assests/20250611094954.png)
 **I wasn't able to merge them together my potato laptop was already lagging too much and taking away all my time. Hope you understand. Dimensions have been checked.**
 (If need a video of me building this 3D model you ask me, it's quite funny lol. )
 
