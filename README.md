@@ -1,35 +1,9 @@
-# HappyUSB
-## Introduction 
+# MacroMedia(HackPad)
 
-HappyUSB is a non-malicious HID device inspired by BADUSB which is made for having fun with friends and pulling pranks on them. Started developing in early 25 but paused the work after some other work and never started again. Completed the project in 2.5 Days(PR). 
+## Introduction
 
-##  Disclaimer
-This project is for educational purpose only don't use it for revenge or any other ill-inteded activity. The owner of this project is not responsible for whatever the users does with this project. Use it at your own risk and safely :)
+Hello viewers this project was created by watching and learning how to make a macropad by [Hackpad](https://hackpad.hackclub.com/) , An event organised by [Hackclub](https://hackclub.com/). With the teachings i created **MacroMedia** which controls all your media with just one click, based on XIAO RP2040 MCU. Enjoy :)
 
-## How it will work 
-The moment it detects that the device is plug in it will:
-
-- Volume Max
-- RickRoll Launch
-- Slow Mouse
-- Text to Speech
-- Log Out the Device
-
-## BOM/Specification
-
-- 1x Digispark Attiny85
-
-![Screenshot](Assets/20250611214011.png)
-
-That's it you can also use a custom made USB shell available in the CAD and Production Folder:
-- Cap.step
-- Body.step
-
-## Images
-![Screenshot](Assets/6219863877793991718.jpg)
-![Screenshot](Assets/temp.jpg)
-
-![Screenshot](Assets/6219863877793991618.jpg)
 ## Extra Stuff
 
 ### Gratitude
@@ -39,6 +13,65 @@ That's it you can also use a custom made USB shell available in the CAD and Prod
 - And Thank you for Reading?
 
 ### Challenges
-Nothing much really, i saw noticeable difference in CAD Building skill, i already had partial code written so it was not a big issue, but i'm learning constantly, I'll find a more challenging project now.. 
+Never thought i would rage quite while i'm building something interesting, my potato(Yeah that's the name of my laptop) was like a heater when i was using CAD Software, i literally tried 5 software checking which worked the smoothest and none worked then shifted too browser based onshape tool which at the end atleast worked properly. Time to change my potato 😂
 
+
+---
+## Inner-Workings
+
+### Specifications
+####  BOM
+- 1x XIAO RP2040
+- 1x 0.91 inch OLED displays
+- 8x Through-hole 1N4148 Diodes
+- 8x Blank DSA keycaps
+- 1x EC11 Rotary encoders
+- 8x MX-Style switches
+- 4x M3x16 Bolt
+- 4x M3 Heatset
+
+#### Others
+- KMK Firmware
+- Plate.stl
+- Body.stl
+
+
+
+---
+## Images
+
+### Schematics and PCB Design
+
+
+![Screenshot](Assests/6213108242129732064.jpg)
+
+![Screenshot](Assests/6213108242129732510.jpg)
+
+---
+
+![Screenshot](Assests/20250611093643.png)
+![Screenshot](Assests/20250611093734.png)
+
+---
+### 3D Printed Case
+Plate:
+![Screenshot](Assests/20250611094447.png)
+
+---
+
+Body :
+![Screenshot](Assests/20250611094849.png)
+
+---
+
+Both :
+![Screenshot](Assests/20250611094938.png)
+![Screenshot](Assests/20250611094954.png)
+**I wasn't able to merge them together my potato laptop was already lagging too much and taking away all my time. Hope you understand. Dimensions have been checked.**
+(If need a video of me building this 3D model you ask me, it's quite funny lol. )
+
+---
+
+BYEEEEE
+Check my [Blog](https://mihranrazaa.pages.dev/) 
 ~ mihranrazaa
