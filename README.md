@@ -71,7 +71,7 @@ Both :
 (If need a video of me building this 3D model you ask me, it's quite funny lol. )
 
 Combined:
-![Screenshot](Assets/combine1.png)
+![Screenshot](Assets/comine1.png)
 ![Screenshot](Assets/combine2.png)
 
 (Fixed the issue...)
